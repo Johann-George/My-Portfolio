@@ -11,9 +11,8 @@ export default function About() {
             Websites.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I am a student at Mar Baselios College of Engineering and Technology and I wish to be a full stack developer.
+            I like to collaborate and build websites and create solutions to real world problems.
           </p>
           <div className="flex justify-center">
             <a
