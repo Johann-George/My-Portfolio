@@ -12,8 +12,8 @@ export const projects = [
     subtitle: "Angular and Java",
     description:
       "A website where users can request for loans and track their loan status",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    image: "./Loan.png",
+    link: "https://johann-george.github.io/BankAppWebsite/",
   },
   {
     title: "NBA Website",
