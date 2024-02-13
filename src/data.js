@@ -1,17 +1,17 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Library Management System",
+    subtitle: "Mongo Express Node",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "A simple library management system project where we can select, update and generate report on books",
+    image: "./Library.png",
+    link: "https://johann-george.github.io/Library_management_project/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Loan Management System",
+    subtitle: "Angular and Java",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A website where users can request for loans and track their loan status",
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
   },
