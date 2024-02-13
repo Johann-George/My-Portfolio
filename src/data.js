@@ -16,12 +16,12 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    title: "NBA Website",
+    subtitle: "HTML & CSS",
+    description:  
+      "A simple nba website where we can read about the greatest basketball players of all time and rankings of different teams",
+    image: "./NBA.png",
+    link: "https://johann-george.github.io/NBA-Website/",
   },
   {
     title: "Epic Todo App",
