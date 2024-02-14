@@ -24,12 +24,12 @@ export const projects = [
     link: "https://johann-george.github.io/NBA-Website/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Todo App",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "A Simple Todo App where we can add, delete and undo tasks",
+    image: "./Todo.png",
+    link: "https://todolistv2024.netlify.app/",
   },
 ];
 
