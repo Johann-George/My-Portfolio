@@ -52,9 +52,9 @@ export const testimonials = [
 
 export const skills = [
   "HTML/CSS",
-  "React",
   "Angular",
-  "Node",
-  "Java",
-  "Flutter",
+  "Spring Boot",
+  "Node JS",
+  "Langchain",
+  "Selenium",
 ];
