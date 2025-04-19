@@ -37,7 +37,7 @@ export const testimonials = [
   {
     quote:
       "I had the pleasure of working with Johann for over eight months at Nissan Digital’s IB4 (M&S Intelligence) department. From day one, he became a valuable part of the team. Johann showed strong skills in Python and Java and played a key role in implementing BDD in our product. He quickly understood the domain, picked up complex requirements, and turned them into clear, effective scenarios. His ability to learn fast and write clean, maintainable code stood out. He brought a great attitude to the team—always positive, curious, and ready to help. His passion for sports like cricket and football also added to his strong team spirit. Johann has a bright future in software development, and I’m happy to recommend him.",
-    image: "https://media.licdn.com/dms/image/v2/D5603AQH07DWVORqOcg/profile-displayphoto-shrink_400_400/B56ZVcAUOEHoAg-/0/1741005343641?e=1750291200&v=beta&t=UY43Q_0sOg7kiHRr0K9ciAigYGwgCvaVorUrcQSbL14",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQHe_ihO9M1mwA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1692543243544?e=1750291200&v=beta&t=jBrLP--P3nfdUK6Q4qT_L8xHXerhbWYD1q4CftRY2Mo",
     name: "Ajesh CR",
     company: "Nissan Digital India",
   },
