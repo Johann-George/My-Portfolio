@@ -36,9 +36,9 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "I have worked with Johann at one of the project here at NDI, he is exceptionally good with programming in Java as well a Python. He has shown a great passion for learning and working with technology. I recommend Johann to any team looking for a talented software engineer.",
+      "I had the pleasure of working with Johann for over eight months at Nissan Digital’s IB4 (M&S Intelligence) department. From day one, he became a valuable part of the team. Johann showed strong skills in Python and Java and played a key role in implementing BDD in our product. He quickly understood the domain, picked up complex requirements, and turned them into clear, effective scenarios. His ability to learn fast and write clean, maintainable code stood out. He brought a great attitude to the team—always positive, curious, and ready to help. His passion for sports like cricket and football also added to his strong team spirit. Johann has a bright future in software development, and I’m happy to recommend him.",
     image: "https://media.licdn.com/dms/image/v2/D5603AQH07DWVORqOcg/profile-displayphoto-shrink_400_400/B56ZVcAUOEHoAg-/0/1741005343641?e=1750291200&v=beta&t=UY43Q_0sOg7kiHRr0K9ciAigYGwgCvaVorUrcQSbL14",
-    name: "Sreelal Chalil",
+    name: "Ajesh CR",
     company: "Nissan Digital India",
   },
   {
