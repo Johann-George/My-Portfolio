@@ -36,17 +36,17 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "I have worked with Johann at one of the project here at NDI, he is exceptionally good with programming in Java as well a Python. He has shown a great passion for learning and working with technology. I recommend Johann to any team looking for a talented software engineer.",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQH07DWVORqOcg/profile-displayphoto-shrink_400_400/B56ZVcAUOEHoAg-/0/1741005343641?e=1750291200&v=beta&t=UY43Q_0sOg7kiHRr0K9ciAigYGwgCvaVorUrcQSbL14",
+    name: "Sreelal Chalil",
+    company: "Nissan Digital India",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "I had the opportunity to work with Johann for over six months at Nissan, and I was consistently impressed by his ability to take on challenges head-on with exceptional technical expertise. He played a key role in supporting our product through deep data analysis and single-handedly developed the BDD suite to ensure top-notch product quality. Beyond his professional contributions, Johann is also a passionate football player who brings great sportsmanship and teamwork to everything he does. I have no doubt that he will be a valuable asset to any team!",
+    image: "https://media.licdn.com/dms/image/v2/C5603AQEc17QoGf2M_Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516563992700?e=1750291200&v=beta&t=O2HeGESjh37ZmLB3c_GoB-EtI5p98-S0duV6cvM4lSE",
+    name: "Hanoc George Varghese",
+    company: "Nissan Digital India",
   },
 ];
 
