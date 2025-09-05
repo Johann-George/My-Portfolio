@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Clinic Management System",
+    subtitle: "React and Spring Boot",
+    description:
+      "A simple clinic management system where patients can book appointments, doctors can conduct consultation and admin can add/edit the staff",
+    image: "./cms.png",
+    link: "https://main.d12c2lov5f3l0d.amplifyapp.com/",
+  },
+  {
     title: "Library Management System",
     subtitle: "Mongo Express Node",
     description:
@@ -9,7 +17,7 @@ export const projects = [
   },
   {
     title: "Loan Management System",
-    subtitle: "Angular and Java",
+    subtitle: "Angular and Spring Boot",
     description:
       "A website where users can request for loans and track their loan status",
     image: "./Loan.png",
@@ -22,14 +30,6 @@ export const projects = [
       "A simple nba website where we can read about the greatest basketball players of all time and rankings of different teams",
     image: "./NBA.png",
     link: "https://johann-george.github.io/NBA-Website/",
-  },
-  {
-    title: "Todo App",
-    subtitle: "React",
-    description:
-      "A Simple Todo App where we can add, delete and undo tasks",
-    image: "./Todo.png",
-    link: "https://todolistv2024.netlify.app/",
   },
 ];
 
