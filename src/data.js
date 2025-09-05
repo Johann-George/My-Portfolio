@@ -24,12 +24,12 @@ export const projects = [
     link: "https://johann-george.github.io/BankAppWebsite/",
   },
   {
-    title: "NBA Website",
-    subtitle: "HTML & CSS",
+    title: "Comprehensive wifi communication system",
+    subtitle: "HTML,CSS,JavaScript and Langchain",
     description:  
-      "A simple nba website where we can read about the greatest basketball players of all time and rankings of different teams",
-    image: "./NBA.png",
-    link: "https://johann-george.github.io/NBA-Website/",
+      "Wi-Fi-based communication system tailored for educational institutions, combined with a Retrieval-Augmented Generation (RAG) based campus information retrieval chatbot and a live server for streaming.",
+    image: "./chatbot-ui.png",
+    link: "https://github.com/Johann-George/Comprehensive-wifi-communication-system",
   },
 ];
 
